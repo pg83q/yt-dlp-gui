@@ -1,1 +1,1 @@
-# yt-dlp-gui
+# yt-dlp gui
